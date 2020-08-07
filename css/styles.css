@@ -714,3 +714,7 @@ footer {
 .container-portfolio {
   border-bottom: 1px solid #ececec;
 }
+
+.filter-container {
+  margin-bottom: 50px;
+}
