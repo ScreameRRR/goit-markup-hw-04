@@ -681,6 +681,8 @@ footer {
   line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
+  padding-right: 24px;
+  padding-left: 24px;
 }
 
 .portfolio-item-text {
@@ -688,6 +690,8 @@ footer {
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: #757575;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .porfolio-item {
